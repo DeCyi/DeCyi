@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+Greetings I am DeCyi a Computer Science student.
+
 https://leetcode.com/DeCyi/
 
 https://www.codewars.com/users/SCYIII
