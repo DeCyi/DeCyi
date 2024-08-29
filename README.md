@@ -7,7 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [DeCyi.github.io](DeCyi.github.io)
 
-<h3 align="left">Connect with me:</h3>
+
+<h1 align="center"> Socials </h1>
 <p align="left">
 <a href="https://www.leetcode.com/decyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="decyi" height="30" width="40" /></a>
 </p>
