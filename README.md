@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [DeCyi.github.io](DeCyi.github.io)
 
+- Looking for open source contributor? Hit me up!
+
 
 <h1 align="center"> Socials </h1>
 <p align="left">
