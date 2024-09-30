@@ -9,6 +9,8 @@
 
 - Looking for open source contributor? Hit me up!
 
+- Most of my repositories are private the ones you have been seeing are outdated.
+
 
 <h1 align="center"> Socials </h1>
 <p align="left">
